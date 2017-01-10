@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="rank01"
+        android:enabled="true"
+        android:icon="@drawable/icon_common_rank01"
+        android:shortcutShortLabel="@string/short_label_rank01"
+        android:shortcutLongLabel="@string/long_label_rank01"
+        android:shortcutDisabledMessage="@string/disabled_message">
+        <intent
+            android:action="com.tutorial.shortcutsex.rank01"
+            android:targetPackage="com.tutorial.shortcutsex"
+            android:targetClass="com.tutorial.shortcutsex.MainActivity" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="rank02"
+        android:enabled="true"
+        android:icon="@drawable/icon_common_rank02"
+        android:shortcutShortLabel="@string/short_label_rank02"
+        android:shortcutLongLabel="@string/long_label_rank02"
+        android:shortcutDisabledMessage="@string/disabled_message">
+        <intent
+            android:action="com.tutorial.shortcutsex.rank02"
+            android:targetPackage="com.tutorial.shortcutsex"
+            android:targetClass="com.tutorial.shortcutsex.MainActivity" />
+    </shortcut>
+</shortcuts>

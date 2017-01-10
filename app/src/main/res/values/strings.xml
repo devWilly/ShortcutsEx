@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ShortcutsEx</string>
+    <string name="short_label_rank01">ShortLabel_01</string>
+    <string name="long_label_rank01">LongLabel_01</string>
+    <string name="short_label_rank02">ShortLabel_02</string>
+    <string name="long_label_rank02">LongLabel_02</string>
+    <string name="disabled_message">DisabledMessage</string>
 </resources>
